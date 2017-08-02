@@ -1,14 +1,10 @@
-
-
-h2.intro {
-font-family: monospace;
-}
-
-img.intro{
+.intro {
+  font-family: monospace;
   width: 350px;
   height: auto;
 }
 
-p.intro{
-font-family: monospace;
+.bold {
+  font-style: oblique;
+  color: teal;
 }
